@@ -1,6 +1,7 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
     />
-    <rect width="800" height="600" x="0" y="0" fill="#f0f0f0" id="background" />
+    <rect width="800" height="600" x="0" y="0" fill="rgba(240, 240, 240, 0)" id="background" />
     <g id="viz">
         <g transform="translate(0,0)">
             <g transform="translate(90,30)">
@@ -484,6 +485,17 @@
                     </g>
                 </g>
             </g>
+            <text
+                y="4"
+                x="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 12px;
+                    fill: black;
+                    font-weight: bold;
+                    dominant-baseline: hanging;
+                "
+            />
         </g>
     </g>
 </svg>
