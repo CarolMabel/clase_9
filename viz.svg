@@ -484,17 +484,6 @@
                     </g>
                 </g>
             </g>
-            <text
-                y="4"
-                x="4"
-                style="
-                    font-family: Arial, sans-serif;
-                    font-size: 12px;
-                    fill: black;
-                    font-weight: bold;
-                    dominant-baseline: hanging;
-                "
-            />
         </g>
     </g>
 </svg>
